@@ -1,8 +1,8 @@
 ---
-title: "<Nome da fase> — <data>"
-authors:
+title: "Formação de equipe — 2026-09-23"
+authors: paulinpj
 tags: [formacao-equipe]
-date: 2027-03-10
+date: 2026-09-23
 ---
 
 <!--
